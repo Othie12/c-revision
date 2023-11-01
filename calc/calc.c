@@ -15,7 +15,7 @@ int main(void){
     char c;
 
    details();
-   puts();
+   puts("");
 
     printf("Program to let you do mathematical operations on any 2 numbers\n");
     printf("--------------------------------------------------------------\n");

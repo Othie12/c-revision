@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//program to output the ascii value of the first letter on one's name
 int main(void){
     char name[20];
     

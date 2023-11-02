@@ -4,16 +4,13 @@
 double workie(int n1, char operator, int n2);
 double power(int n1, int n2);
 void arithmetic();
-void max();
 
 int main(void) {
     arithmetic();
 }
 
 
-
-//Programme to get the maximum number
-
+//program to make simple arithmetic
 /***************************************************************************************/
 void arithmetic(){
     int n1, n2;

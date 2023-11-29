@@ -6,7 +6,7 @@ int main(void){
     printf("\t LIMKOKWING UNIVERSITY (LUCT)\n\n");
     printf("%-20s : %s\n", "Student Name", "Oketcho Silas");
     printf("%-20s : %s\n", "Course", "Bsc. Software Engineering with Multimedia");
-    printf("%-20s : %s\n", "Student Number", "LUCT1100007");
+    printf("%-20s : %s\n", "Student Number", "LUCT1100008");
     printf("%-20s : %s\n", "Semester", "6");
     printf("%-35s %-7s %s\n\n", "Module", "Mark", "Grade");
 

@@ -32,7 +32,7 @@ int main(void){
     printf("\t%-15s : %s\n", "Student Number", stdntNo);
     printf("\t%-15s : %d\n", "Semester", semester);
     puts("-------------------------------------------------------------------");
-    puts("%-35s : %-7d %s", );
+    printf("%-35s %-7s %s\n", "Module", "Mark", "Grade");
     for(int i = 0; i < 5; i++){
         printf("%-35s : %-7d %s\n", modules[i].name, modules[i].mark, grade(modules[i].mark));
     }
